@@ -14,7 +14,9 @@
 ActiveRecord::Schema.define(version: 20130929200141) do
 
   create_table "goals", force: true do |t|
-    t.string   "name"
+    t.string   "goal_name"
+    t.string   "details"
+    t.integer  "likes"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
