@@ -2,13 +2,14 @@
 
 Relevant Links: 
 
-=Bourbon
+===Bourbon
 
-* http://railscasts.com/episodes/330-better-sass-with-bourbon?autoplay=true
+* RailsCast: http://railscasts.com/episodes/330-better-sass-with-bourbon?autoplay=true
 * Thoughtbot: Installing Bourbon for Rails - https://vimeo.com/53607129
 * Official Bourbon Docs: http://bourbon.io/
 
-=Bourbon Neat
+===Bourbon Neat
 
 * Officail Docs: http://neat.bourbon.io/docs/
 * Github: https://github.com/thoughtbot/neat
+* Examples: http://neat.bourbon.io/examples/
